@@ -96,8 +96,6 @@ Finalmente pruebe el servidor enviando la query a la siguiente dirección con el
 
 ![image](https://github.com/user-attachments/assets/0c72b798-4e6d-4df0-a91c-806d3ca46a6b)
 
-Video del programa en funcionamiento: https://youtu.be/FM8VqoLLL0Q
-
 ## Autor
 
 - [Daniel Felipe Rojas Hernandez](https://github.com/Knight072)
