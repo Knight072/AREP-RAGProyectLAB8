@@ -1,5 +1,6 @@
-# AREP - Taller RAG
-## Autor: David Leonardo Piñeros Cortés
+# Build a Retrieval Augmented Generation (RAG) App
+
+## Resumen
 
 El objetivo de este taller es construir un servidor RAG, el cual es un enfoque en el procesamiento de lenguaje natural que combina técnicas de recuperación de información con 
 generación de texto. Su objetivo es mejorar la capacidad de los modelos de lenguaje, como GPT, para responder a preguntas complejas o generar textos más informados y precisos, 
@@ -96,3 +97,11 @@ Finalmente pruebe el servidor enviando la query a la siguiente dirección con el
 ![image](https://github.com/user-attachments/assets/0c72b798-4e6d-4df0-a91c-806d3ca46a6b)
 
 Video del programa en funcionamiento: https://youtu.be/FM8VqoLLL0Q
+
+## Autor
+
+- [Daniel Felipe Rojas Hernandez](https://github.com/Knight072)
+
+## Licencia
+
+Este proyecto está bajo la Licencia (MIT) - ver el archivo [LICENSE](LICENSE.md) para ver más detalles.
